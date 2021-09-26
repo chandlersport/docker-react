@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>Lets test again</p>
+        <p>Holy Moly, a Feature! Auto deployed. Cool.</p>
       </header>
     </div>
   );
